@@ -25,8 +25,8 @@ This dashboard helps in understanding sales trends, customer behavior,
 and channel-wise performance to support data-driven decision making.
 
 ## Dashboard Preview
-![Dashboard Screenshot](<img width="1184" height="642" alt="Screenshot 2026-01-19 132939" src="https://github.com/user-attachments/assets/46e0d1ce-ac55-4df9-8f68-46d40612a5f4" />
-)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/9790e0f8-b3ac-4b2c-82ef-bac8dce80535)
+
 
 
 
